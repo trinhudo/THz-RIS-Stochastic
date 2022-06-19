@@ -8,15 +8,3 @@ a spherical network with stochastic relative distances between nodes, we derive 
 
 ## Paper
 - Updating...
-
-## Bibtex
-If you find that our research is interesting and our code is helpful, please cite our paper. Thank you!
-
-```
-@article{NguyenTHz2022,
-	author = {Nguyen, Thanh Luan and Do, Tri Nhu and Kaddoum, Georges and da Costa, D. B. and Haas, Zygmunt},
-	title = {Channel {C}haracterization for {RIS}-aided {T}erahertz {C}ommunications: {A} {S}tochastic {A}pproach},
-	journal = {IEEE},
-	year = {2022},
-}
-```
