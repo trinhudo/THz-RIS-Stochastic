@@ -7,4 +7,4 @@ In this paper, we propose novel channel models for (i) stochastic Terahertz (THz
 a spherical network with stochastic relative distances between nodes, we derive an exact distribution for the direct link; using the method of moments, we prove that the cascaded channel can be precisely characterized by α-μ distribution. The obtained channel models are used to evaluate the system’s performance in terms of outage probability. We show that by using a massive number of reflecting elements, the cascaded link outperforms the direct THz link.
 
 ## Paper
-- Updating...
+- [IEEExplore](https://ieeexplore.ieee.org/document/9805798)
